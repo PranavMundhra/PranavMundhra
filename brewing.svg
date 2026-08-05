@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 230" width="340" height="230" role="img" aria-label="An animated steaming cup of coffee">
+
+  <!-- ============ steam ============ -->
+  <g stroke="#C08552" stroke-width="5" stroke-linecap="round" fill="none">
+
+    <g transform="translate(140,88)">
+      <path d="M0,0 c -9,-12 9,-20 0,-32 c -7,-9 4,-16 0,-22" opacity="0">
+        <animate attributeName="opacity"
+                 values="0;0;0.75;0.4;0" keyTimes="0;0.1;0.4;0.75;1"
+                 dur="4s" begin="0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate"
+                 values="0,16; 0,-4; 0,-26" keyTimes="0;0.5;1"
+                 dur="4s" begin="0s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g transform="translate(168,88)">
+      <path d="M0,0 c 9,-11 -9,-19 0,-30 c 7,-9 -4,-15 0,-21" opacity="0">
+        <animate attributeName="opacity"
+                 values="0;0;0.6;0.3;0" keyTimes="0;0.1;0.4;0.75;1"
+                 dur="4s" begin="1.3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate"
+                 values="0,16; 0,-4; 0,-28" keyTimes="0;0.5;1"
+                 dur="4s" begin="1.3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g transform="translate(196,88)">
+      <path d="M0,0 c -8,-11 8,-18 0,-28 c -6,-8 3,-14 0,-19" opacity="0">
+        <animate attributeName="opacity"
+                 values="0;0;0.5;0.25;0" keyTimes="0;0.1;0.4;0.75;1"
+                 dur="4s" begin="2.6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate"
+                 values="0,16; 0,-4; 0,-24" keyTimes="0;0.5;1"
+                 dur="4s" begin="2.6s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+  </g>
+
+  <!-- ============ saucer ============ -->
+  <ellipse cx="168" cy="196" rx="86" ry="13" fill="#3B2314"/>
+  <ellipse cx="168" cy="192" rx="86" ry="13" fill="#6F4E37"/>
+  <ellipse cx="168" cy="192" rx="52" ry="7"  fill="#4B3621"/>
+
+  <!-- ============ handle ============ -->
+  <path d="M214,120 C252,116 256,168 208,172"
+        fill="none" stroke="#C08552" stroke-width="11" stroke-linecap="round"/>
+  <path d="M214,120 C252,116 256,168 208,172"
+        fill="none" stroke="#DBA26A" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- ============ mug body ============ -->
+  <path d="M118,104 L128,168 Q131,184 148,184 L188,184 Q205,184 208,168 L218,104 Z"
+        fill="#C08552"/>
+  <path d="M118,104 L124,142 Q160,152 218,132 L218,104 Z"
+        fill="#DBA26A" opacity="0.35"/>
+
+  <!-- rim -->
+  <ellipse cx="168" cy="104" rx="50" ry="12" fill="#F5E6D3"/>
+  <ellipse cx="168" cy="105" rx="44" ry="9.5" fill="#3B2314"/>
+
+  <!-- surface shimmer -->
+  <ellipse cx="152" cy="103" rx="14" ry="3" fill="#8B5E3C" opacity="0.55">
+    <animate attributeName="rx" values="14;20;14" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;0.25;0.55" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- ============ brewing text ============ -->
+  <g font-family="ui-monospace, 'Fira Code', 'SF Mono', Consolas, monospace"
+     font-size="17" font-weight="600" fill="#C08552">
+    <text x="98" y="222">$ brewing</text>
+    <text x="185" y="222" opacity="0">.
+      <animate attributeName="opacity" values="0;1;1;1;0" dur="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="192" y="222" opacity="0">.
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="199" y="222" opacity="0">.
+      <animate attributeName="opacity" values="0;0;0;1;0" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+</svg>
