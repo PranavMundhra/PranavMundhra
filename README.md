@@ -11,7 +11,7 @@
 </td>
 <td width="66%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=C08552&center=true&vCenter=true&width=520&height=100&lines=Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;C%2B%2B+%7C+Python+%7C+JavaScript;while(coffee)+%7B+code();+%7D;%2F%2F+TODO%3A+refill+the+mug" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=C08552&center=true&vCenter=true&width=520&height=100&lines=Developer+from+India;C%2B%2B+%7C+Python+%7C+JavaScript;while(coffee)+%7B+code();+%7D;%2F%2F+TODO%3A+refill+the+mug" alt="Typing SVG" />
 
 <br>
 
@@ -24,38 +24,37 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-```console
+```
 pranav@github ~ % brew --info me
 
-☕ ═══════════════════════════════════════════
-   name        : Pranav Mundhra
-   location    : India 🇮🇳
-   roast       : dark — same as my editor theme
-   languages   : [ Python, C++, JavaScript ]
-   building    : small tools that fix real
-                 annoyances
-   grinding    : DSA on LeetCode + CodeChef
-   fuel level  : ████████░░  80%
-   uptime      : ~5 cups/day, results may vary
-   motto       : "compile, sip, repeat"
-☕ ═══════════════════════════════════════════
+  ═══════════════════════════════════════════════════════
+    name        : Pranav Mundhra
+    location    : India
+    roast       : dark — same as my editor theme
+    languages   : [ Python, C++, JavaScript ]
+    building    : small tools that fix real annoyances
+    grinding    : DSA on LeetCode + CodeChef
+    fuel level  : ████████░░  80%
+    uptime      : ~5 cups/day, results may vary
+    motto       : "compile, sip, repeat"
+  ═══════════════════════════════════════════════════════
 
 [ brewed successfully in 0.42s ]
 ```
 
-</td>
-<td width="38%" valign="top" align="center">
+<!--
+  WANT THE DESK PHOTO BACK?
+  Commit a photo as desk.jpg, then wrap the code block above in this:
 
-<!-- Drop a photo of your actual desk here — commit it as desk.jpg -->
-<img src="./desk.jpg" width="100%" alt="the natural habitat" />
-
-</td>
-</tr>
-</table>
+  <table><tr>
+  <td width="62%" valign="top">
+  ...the code block goes here...
+  </td>
+  <td width="38%" valign="top" align="center">
+  <img src="./desk.jpg" width="100%" alt="the natural habitat" />
+  </td>
+  </tr></table>
+-->
 
 <br>
 
@@ -112,12 +111,12 @@ Helping students save money and spend responsibly.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PranavMundhra&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=C08552&icon_color=C08552&text_color=D2B48C&bg_color=1C1410" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMundhra&layout=compact&hide_border=true&langs_count=8&title_color=C08552&text_color=D2B48C&bg_color=1C1410" alt="top langs" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=PranavMundhra&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=C08552&icon_color=C08552&text_color=D2B48C&bg_color=1C1410" alt="stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PranavMundhra&layout=compact&hide_border=true&langs_count=8&title_color=C08552&text_color=D2B48C&bg_color=1C1410" alt="top langs" />
 
 <img width="88%" src="https://streak-stats.demolab.com?user=PranavMundhra&hide_border=true&background=1C1410&stroke=6F4E37&ring=C08552&fire=E8A87C&currStreakNum=F5E6D3&sideNums=D2B48C&currStreakLabel=C08552&sideLabels=C08552&dates=8B7355" alt="streak" />
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMundhra&bg_color=1C1410&color=F5E6D3&line=C08552&point=E8A87C&area=true&area_color=6F4E37&hide_border=true&custom_title=Contribution%20Pour-Over" alt="activity graph" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMundhra&bg_color=1C1410&color=F5E6D3&line=C08552&point=E8A87C&title_color=C08552&area=true&area_color=6F4E37&hide_border=true&custom_title=Contribution%20Pour-Over" alt="activity graph" />
 
 </div>
 
