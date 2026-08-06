@@ -11,7 +11,7 @@
 </td>
 <td width="66%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=C08552&center=true&vCenter=true&width=520&height=100&lines=Developer+from+India;C%2B%2B+%7C+Python+%7C+JavaScript;while(coffee)+%7B+code();+%7D;%2F%2F+TODO%3A+refill+the+mug" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=C08552&center=true&vCenter=true&width=520&height=100&lines=Developer+from+India;C%2B%2B+%7C+Python+%7C+JavaScript;while(coffee)+%7B+code()+%7D;%2F%2F+TODO%3A+refill+the+mug" alt="Typing SVG" />
 
 <br>
 
