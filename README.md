@@ -158,7 +158,7 @@ The stats-and-math corner: an app that solves linear programming and transportat
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pranavmundhra/"><img src="https://img.shields.io/badge/LinkedIn-4B3621?style=for-the-badge&logo=linkedin&logoColor=FFD27A" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/pranavmundhra/"><img src="https://img.shields.io/badge/LinkedIn-4B3621?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRDI3QSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:pranavmundhra2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-6F4E37?style=for-the-badge&logo=gmail&logoColor=FFD27A" alt="Email" /></a>
 <a href="https://www.kaggle.com/pranavmundhra"><img src="https://img.shields.io/badge/Kaggle-8A5A00?style=for-the-badge&logo=kaggle&logoColor=FFD27A" alt="Kaggle" /></a>
 <a href="https://instagram.com/pranavmundhra2005"><img src="https://img.shields.io/badge/Instagram-B07A10?style=for-the-badge&logo=instagram&logoColor=140D06" alt="Instagram" /></a>
