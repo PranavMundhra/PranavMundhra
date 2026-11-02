@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120B04,55:4B3621,100:FFB000&height=200&section=header&text=Pranav%20Mundhra&fontColor=FFD27A&fontSize=52&fontAlignY=35&desc=converging,%20one%20cup%20at%20a%20time&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140D06,50:4B3621,100:FFB000&height=200&section=header&text=Pranav%20Mundhra&fontColor=FFD27A&fontSize=52&fontAlignY=35&desc=converging,%20one%20cup%20at%20a%20time&descSize=18&descAlignY=58" width="100%" />
 
 </div>
 
@@ -16,7 +16,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=PranavMundhra&label=cups%20served&color=B07A10&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/coffee%20consumed-∞%20cups-FFB000?style=for-the-badge&logo=buymeacoffee&logoColor=120B04" alt="coffee" />
+<img src="https://img.shields.io/badge/coffee%20consumed-∞%20cups-FFB000?style=for-the-badge&logo=buymeacoffee&logoColor=140D06" alt="coffee" />
 
 </td>
 </tr>
@@ -24,27 +24,9 @@
 
 ---
 
-```
-pranav@lab:~$ python -c "import pranav; pranav.summary()"
-
-Model: "pranav_mundhra"
-_____________________________________________________________________
- Layer (type)                    Output shape                Params
-=====================================================================
- caffeine_input (Espresso)       (None, ~5 cups/day)         ∞
- stats_core (Bootstrap)          (None, 95% CI)              5 seeds
- federated_block (FedAvg)        (22 turbines → 1 model)     shared
- timeseries_head (RUL)           (days_left,)                pending
- llm_adapter (Agents)            (None, curious)             training
- off_hours (Dropout, p=0.3)      [books, anime, cooking,     ——
-                                  cycling]
-=====================================================================
- Total params: too many tabs open
- Trainable params: all of them
- Non-trainable params: sleep schedule
-_____________________________________________________________________
- location: India · stack: Python, PyTorch, FastAPI · motto: "fit, sip, repeat"
-```
+<div align="center">
+<img src="./terminal.svg" width="100%" alt="pranav@lab terminal running pranav.summary(): caffeine_input (Espresso) ∞ · stats_core (Bootstrap) 5 seeds · federated_block (FedAvg) 22 turbines → 1 · timeseries_head (RUL) pending · llm_adapter (Agents) training · off_hours: books, anime, cooking, cycling" />
+</div>
 
 <br>
 
@@ -161,7 +143,7 @@ The stats-and-math corner: an app that solves linear programming and transportat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=PranavMundhra&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=FFB000&icon_color=FFB000&text_color=E8C27A&bg_color=120B04" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=PranavMundhra&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=FFB000&icon_color=FFB000&text_color=E8C27A&bg_color=140D06" alt="GitHub stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavMundhra/PranavMundhra/output/snake-coffee-dark.svg" />
@@ -179,7 +161,7 @@ The stats-and-math corner: an app that solves linear programming and transportat
 <a href="https://www.linkedin.com/in/pranavmundhra/"><img src="https://img.shields.io/badge/LinkedIn-4B3621?style=for-the-badge&logo=linkedin&logoColor=FFD27A" alt="LinkedIn" /></a>
 <a href="mailto:pranavmundhra2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-6F4E37?style=for-the-badge&logo=gmail&logoColor=FFD27A" alt="Email" /></a>
 <a href="https://www.kaggle.com/pranavmundhra"><img src="https://img.shields.io/badge/Kaggle-8A5A00?style=for-the-badge&logo=kaggle&logoColor=FFD27A" alt="Kaggle" /></a>
-<a href="https://instagram.com/pranavmundhra2005"><img src="https://img.shields.io/badge/Instagram-B07A10?style=for-the-badge&logo=instagram&logoColor=120B04" alt="Instagram" /></a>
+<a href="https://instagram.com/pranavmundhra2005"><img src="https://img.shields.io/badge/Instagram-B07A10?style=for-the-badge&logo=instagram&logoColor=140D06" alt="Instagram" /></a>
 
 </div>
 
@@ -190,7 +172,7 @@ The stats-and-math corner: an app that solves linear programming and transportat
 > *All models are wrong, but some are useful.*
 > *All coffee is useful.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,45:4B3621,100:120B04&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,50:4B3621,100:140D06&height=120&section=footer" width="100%" />
 
 **thanks for stopping by — the pot's always on and the GPU's always warm ☕**
 
