@@ -16,7 +16,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=PranavMundhra&label=cups%20served&color=B07A10&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/coffee%20consumed-∞%20cups-FFB000?style=for-the-badge&logo=buymeacoffee&logoColor=140D06" alt="coffee" />
+<img src="https://img.shields.io/badge/coffee%20consumed-∞%20cups-FFB000?style=for-the-badge&logo=buymeacoffee&logoColor=FFB000&labelColor=2B1810" alt="coffee" />
 
 </td>
 </tr>
@@ -36,7 +36,7 @@
 <tr>
 <td colspan="2" valign="top">
 
-### `run_001` · [Wind-Turbine](https://github.com/PranavMundhra/Wind-Turbine) &nbsp;⭐ flagship
+### `run_001` · [Wind-Turbine](https://github.com/PranavMundhra/Wind-Turbine) &nbsp;🎓 college capstone
 `PyTorch` `Federated learning` `Anomaly detection` `Paper in prep`
 
 Can wind turbines learn what "healthy" looks like **without pooling their data**? I trained federated normal-behaviour autoencoders on the public CARE to Compare benchmark, with each of 22 turbines as its own client, and scored 58 real fault events.
