@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 236" width="340" height="236" role="img" aria-label="An amber CRT terminal plotting a falling loss curve while a coffee mug drains">
+  <defs>
+    <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFB000" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#2A1A06"/>
+      <stop offset="1" stop-color="#120B04"/>
+    </radialGradient>
+    <filter id="bloom" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="mugIn"><rect x="268" y="132" width="34" height="38" rx="3"/></clipPath>
+  </defs>
+
+  <!-- monitor bezel -->
+  <rect x="4" y="4" width="332" height="214" rx="18" fill="#2B1810"/>
+  <rect x="4" y="4" width="332" height="214" rx="18" fill="none" stroke="#6F4E37" stroke-width="2"/>
+  <rect x="14" y="14" width="312" height="194" rx="12" fill="url(#glow)"/>
+  <rect x="14" y="14" width="312" height="194" rx="12" fill="url(#scan)"/>
+  <rect x="150" y="218" width="40" height="8" fill="#2B1810"/>
+  <rect x="120" y="226" width="100" height="6" rx="3" fill="#4B3621"/>
+
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" fill="#FFB000">
+    <text x="26" y="34" font-size="11" opacity="0.9">pranav@lab:~$ python train.py</text>
+    <circle cx="300" cy="30" r="3.5" fill="#FFB000">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="246" y="34" font-size="9" opacity="0.7">REC</text>
+  </g>
+
+  <!-- axes -->
+  <g stroke="#8A5A00" stroke-width="1.2" fill="none" opacity="0.8">
+    <path d="M34,54 V172 H232"/>
+  </g>
+  <g stroke="#8A5A00" stroke-width="0.6" stroke-dasharray="2 4" opacity="0.45">
+    <path d="M34,82 H226"/>
+    <path d="M34,117 H226"/>
+    <path d="M34,152 H226"/>
+  </g>
+  <g font-family="'Fira Code',Consolas,monospace" font-size="8" fill="#B07A10">
+    <text x="40" y="56">loss</text>
+    <text x="204" y="184">epoch</text>
+  </g>
+
+  <!-- loss curve -->
+  <path d="M34.0,64.8 L38.0,72.0 L42.0,83.1 L46.0,86.2 L50.0,95.8 L54.0,100.6 L58.0,104.0 L62.0,111.8 L66.0,113.4 L70.0,120.1 L74.0,121.7 L78.0,125.3 L82.0,130.6 L86.0,135.9 L90.0,134.5 L94.0,137.5 L98.0,142.1 L102.0,145.9 L106.0,145.7 L110.0,146.5 L114.0,151.1 L118.0,147.7 L122.0,153.2 L126.0,151.6 L130.0,152.0 L134.0,152.9 L138.0,154.8 L142.0,158.0 L146.0,155.9 L150.0,158.5 L154.0,159.4 L158.0,158.8 L162.0,160.1 L166.0,158.6 L170.0,159.1 L174.0,160.2 L178.0,162.4 L182.0,161.8 L186.0,161.7 L190.0,163.0 L194.0,162.8 L198.0,162.5 L202.0,164.4 L206.0,164.3 L210.0,163.1 L214.0,164.3 L218.0,164.3 L222.0,165.4 L226.0,165.1" fill="none" stroke="#FFB000" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"
+        stroke-dasharray="250" stroke-dashoffset="250" filter="url(#bloom)">
+    <animate attributeName="stroke-dashoffset" values="250;0;0;250" keyTimes="0;0.7;0.92;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="226.0" cy="165.1" r="3.4" fill="#FFD27A" opacity="0" filter="url(#bloom)">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.68;0.72;0.9;0.95" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="156.0" y="155.1" font-family="'Fira Code',Consolas,monospace" font-size="9" fill="#FFD27A" opacity="0">converged ✓
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.7;0.74;0.9;0.95" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- mug: drains while the model trains -->
+  <g>
+    <rect x="266" y="130" width="38" height="42" rx="5" fill="none" stroke="#C08552" stroke-width="2.5"/>
+    <path d="M304,140 h6 a8,8 0 0 1 0,18 h-6" fill="none" stroke="#C08552" stroke-width="2.5"/>
+    <g clip-path="url(#mugIn)">
+      <rect x="266" y="136" width="40" height="40" fill="#6F4E37">
+        <animate attributeName="y" values="136;166;166;136" keyTimes="0;0.7;0.92;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g stroke="#FFB000" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7">
+      <path d="M278,124 c-5,-7 5,-11 0,-18">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M291,124 c5,-7 -5,-11 0,-18">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <!-- status line -->
+  <g font-family="'Fira Code',Consolas,monospace" font-size="9.5" fill="#FFB000">
+    <text x="26" y="196">epoch ∞ · loss ↓ · caffeine ↓ · morale ↑</text>
+    <rect x="262" y="188" width="7" height="11" fill="#FFB000">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
