@@ -36,13 +36,13 @@
 <tr>
 <td colspan="2" valign="top">
 
-### `run_001` · Wind-Turbine &nbsp;🎓 college capstone
+### `run_001` · [Wind-Turbine](https://github.com/PranavMundhra/Wind-Turbine) &nbsp;🎓 college capstone
 `PyTorch` `Federated learning` `Anomaly detection` `Paper in prep`
 
 Can wind turbines learn what "healthy" looks like **without pooling their data**? My capstone explores federated normal-behaviour models for spotting turbine faults early, on public SCADA data.
 
 ```
-status : 🔒 paper in preparation — code + results go public when it's published
+status : 📝 paper in preparation · code + results public (MIT, Zenodo DOI)
 ```
 
 </td>
